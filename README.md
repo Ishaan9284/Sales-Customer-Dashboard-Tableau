@@ -8,7 +8,7 @@ An interactive Tableau workbook featuring two dashboards that analyze sales perf
 ## 🖼️ Dashboard Preview
 
 > _Add a screenshot of your dashboard here_
-> `![Dashboard Preview](dashboard_preview.png)`
+> `![Dashboard Preview](Dashboard.png)`
 
 ---
 
