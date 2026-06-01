@@ -1,4 +1,3 @@
-
 # 📊 Sales & Customer Dashboard — Tableau
 
 An interactive Tableau workbook featuring two dashboards that analyze sales performance and customer behavior across years, regions, and product categories.
@@ -7,6 +6,7 @@ An interactive Tableau workbook featuring two dashboards that analyze sales perf
 
 ## 🖼️ Dashboard Preview
 
+<img width="1213" height="821" alt="Screenshot 2026-06-01 at 6 07 32 PM" src="https://github.com/user-attachments/assets/8d08a98b-043d-4c69-a370-0423bb01bd93" />
 > _Add a screenshot of your dashboard here_
 > `![Dashboard Preview](Dashboard.png)`
 
